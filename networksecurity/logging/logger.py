@@ -14,3 +14,8 @@ logging.basicConfig(
     format="[ %(asctime)s ] %(lineno)d %(name)s - %(levelname)s - %(message)s",
     level=logging.INFO,
 )
+
+'''
+Logging is a built-in Python system used to record events, errors, and runtime information while a program runs.
+It is essential for debugging, monitoring, and maintaining applications, especially in production systems.
+'''
